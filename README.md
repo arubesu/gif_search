@@ -1,6 +1,9 @@
 # gif_search
 
-A new Flutter project
+A new Flutter project to learn about grid view, routing, pages. 
+
+
+
 
 ## Getting Started
 
