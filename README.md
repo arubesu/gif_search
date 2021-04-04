@@ -2,12 +2,19 @@
 
 A new Flutter project to learn about grid view, routing, pages. 
 
+# Usage
 
+To run this app you need to login in [Developers Giphy](https://developers.giphy.com/ "Giphy") dashboard to create an api key.
 
+With your api key, rename .env.example to .env and change *your_key* 
+
+## Screenshots
+
+![Search](https://raw.githubusercontent.com/arubesu/gif_search/main/screenshots/search.gif)
+
+![Trending](https://raw.githubusercontent.com/arubesu/gif_search/main/screenshots/trending.gif)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
