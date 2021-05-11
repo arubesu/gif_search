@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/GYU7rBEQtBGfe/source.gif" width="480" height="269" allowFullScreen></img>
-
+<p align="center">
+<img src="https://media.giphy.com/media/GYU7rBEQtBGfe/source.gif" width="480" height="269"></img>
+</p>
 <h3 align="center"> Awesomes gifs every day
 </h3>
 
