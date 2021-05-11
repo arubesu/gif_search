@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/GYU7rBEQtBGfe" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/horse-high-five-masks-GYU7rBEQtBGfe">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/GYU7rBEQtBGfe/source.gif" width="480" height="269" allowFullScreen></img>
 
 <h3 align="center"> Awesomes gifs every day
 </h3>
